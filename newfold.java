@@ -4,7 +4,7 @@
  		 1.txt and 9.doc will be saved in
  		 1_9 named Folder.
  		 		
- 		@ Saifi
+ 	@ Saifullah Saifi hasectic(saifi@csdamu.com)
 ------------------------------------------------------*/
 package Calculation;
 import java.io.*;
