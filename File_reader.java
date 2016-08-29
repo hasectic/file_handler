@@ -1,7 +1,7 @@
 /*------------------------------------------------------
  		Program for File reader, and File Writer.
  		 		
- 		@ Saifi
+ 		@ Saifullah Saifi hasectic(saifi@csdamu.com)
 ------------------------------------------------------*/
 package Calculation;
 
