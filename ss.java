@@ -1,7 +1,7 @@
 /*------------------------------------------------------
  		Program for Size wise Folder making.
  		
- 		@ Saifi
+ 		@ Saifullah Saifi hasectic(saifi@csdamu.com)
 ------------------------------------------------------*/
 package Calculation;
 import java.io.*;
