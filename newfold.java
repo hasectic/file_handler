@@ -24,8 +24,9 @@ public class newfold {
 	public static void main(String [] args)throws IOException{
 		newfold ne=new newfold();
 		// file and folder path
-final String url = "C:\\Users\\Saifi\\workspace\\koi\\src\\output\\";
-File directory = new File("C:\\Users\\Saifi\\workspace\\koi\\src\\new");  
+		final String url = "output folder path";
+		// e.g final String url = "C:\\Users\\Saifi\\workspace\\koi\\src\\output\\";
+File directory = new File("the path of input folder");  
 // clean the output folder
 File[] myarray;
 ne.clean(url);
