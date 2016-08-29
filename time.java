@@ -1,7 +1,7 @@
 /*------------------------------------------------------
  		Program for Time zone and format change.
  		
- 		@ Saifi
+ 		@ Saifullah Saifi hasectic(saifi@csdamu.com)
 ------------------------------------------------------*/
 
 package Calculation;
